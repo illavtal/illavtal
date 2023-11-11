@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=15)
+![header](https://capsule-render.vercel.app/api?type=waving&height=128&color=gradient&customColorList=15)
 
 ⛄ Hi there
 
